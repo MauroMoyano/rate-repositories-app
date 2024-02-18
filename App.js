@@ -1,5 +1,5 @@
 import { StyleSheet, View } from "react-native";
-import Main from './Main'
+import Main from './src/components/Main'
 
 export default function App() {
   console.log("MAuro Native");
